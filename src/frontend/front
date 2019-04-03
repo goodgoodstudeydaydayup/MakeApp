@@ -1,0 +1,15 @@
+App Installation Guide
+
+1. Install Node.js from https://nodejs.org/
+
+2. Install Expo command line tool
+
+	# npm install exp --global
+
+3. Download XDE from https://github.com/expo/xde/releases
+
+4. Complete installation of XDE
+
+5. Launch Expo XDE and open existing project from frontend/app
+
+6. Click on Device and select simulator (ensure you've Xcode and android studio installed) 
